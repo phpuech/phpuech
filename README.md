@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @phpuech
 - 👀 I’m interested in biophysics, cell mechanotransduction, arts...
-- 🌱 I’m currently learning oil painting
 - 💞️ I’m looking to collaborate on data vizualisation and processing
 - 📫 How to reach me : use email !!!
 
